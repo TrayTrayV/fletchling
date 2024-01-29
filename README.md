@@ -15,7 +15,7 @@ To Run this Application, Download the fletchling.zip file or Clone this Reposito
    npm install
 ```
 
-To install the Required npm modules to make the application work,
+Install the Required npm modules to make the application work,
 After installing all the Required Module run
 
 ```bash
