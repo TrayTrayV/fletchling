@@ -2,6 +2,10 @@
 
 Part of the MVC Application Assignment
 
+##Prerequisite
+
+Must have git and node.js + npm installed in your system.
+
 ## Resources
 
 Vue.js + Vite + Tailwind.css
