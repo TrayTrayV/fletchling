@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- ViewPort: This is where you can view the API being Outputted -->
+    <!-- ViewPort: This is where you can view the API being fetched -->
     <div class="bg-gray-800 min-h-screen flex items-center justify-center p-13">
       <div class="text-center">
         <p class="text-lg font-bold text-white">{{ currentPokemon.name }}</p>
