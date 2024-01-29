@@ -8,7 +8,7 @@ Vue.js + Vite + Tailwind.css
 The API Model being used for this Assignment is [PokeAPI.co!](https://pokeapi.co)
 
 
-To Run this Application, Download the fletchling.zip file or Clone this Repository Then do
+To Run this Application, Download the fletchling.zip file on the Release or Clone this Repository Then do
 
 ```bash
    cd fletchling
